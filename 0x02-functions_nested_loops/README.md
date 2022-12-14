@@ -5,4 +5,3 @@ Tasks
     We are allowed to use the prototype funtion _putchar.
     All *-main.c files will be located in the main directory
 
-
